@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Khalid
-- 👀 Senior Software Developer Team Lead
+- 👀 Senior FullStack Developer - Team Lead - CTO
 - 📫 abdullah423@gmail.com
 
 
