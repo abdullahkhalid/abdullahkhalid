@@ -9,3 +9,30 @@ Full Stack Developer: Specializing in Node.js, Nest.js, Next.js, React.js, React
 ✅ Quality-Driven: I produce clean, maintainable code that aligns with industry standards. Your project will benefit from the latest best practices.
 
 ✅ As a client, you can expect reliable availability and a firm commitment to honoring our agreement without requesting additional funds once the deal is finalized. I will deliver your project on time, professionally, and successfully.
+
+
+**Newly Developed Web Apps:**
+https://bozt.app 
+https://www.redlion.red 
+https://snapfood.al 
+https://www.katanemo.com 
+https://getexclusively.com 
+http://cryptodoggo.io 
+https://www.economicsale.finance
+http://trainem.s3-website.us-east-2.amazonaws.com 
+https://jigen.io 
+https://ebookingsystem.com/login 
+https://maps.foncii.com
+
+**Newly Developed iOS Apps:**
+https://apps.apple.com/us/app/restaurants-local-food-bōzt/id1500087580
+https://apps.apple.com/xk/developer/electral-sh-p-k/id1333699126
+https://apps.apple.com/us/developer/eugene-williams/id1518317372
+https://apps.apple.com/us/app/iscape-landscape-designs/id439688430
+https://apps.apple.com/us/app/bookedya/id1520463828 
+https://apps.apple.com/us/app/wedding-pool/id1531822756 
+
+**Newly Developed Android Apps:**
+https://play.google.com/store/apps/details?id=com.bozt.Bozt
+https://play.google.com/store/apps/details?id=com.trainem
+https://play.google.com/store/apps/details?id=com.snapfood.app&hl=en
