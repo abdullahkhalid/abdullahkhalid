@@ -8,4 +8,4 @@ Full Stack Developer: Specializing in Node.js, Nest.js, Next.js, React.js, React
 
 ✅ Quality-Driven: I produce clean, maintainable code that aligns with industry standards. Your project will benefit from the latest best practices.
 
-As a client, you can expect reliable availability and a firm commitment to honoring our agreement without requesting additional funds once the deal is finalized. I will deliver your project on time, professionally, and successfully.
+✅ As a client, you can expect reliable availability and a firm commitment to honoring our agreement without requesting additional funds once the deal is finalized. I will deliver your project on time, professionally, and successfully.
