@@ -13,8 +13,8 @@ Full Stack Developer: Specializing in Node.js, Nest.js, Next.js, React.js, React
 **Contact Email:**  abdullah423@gmail.com  
 **Contact No/Whatsapp:**  +92 331 020 1222
 
-
 **Newly Developed Web Apps:**  
+https://derisky.ai 
 https://bozt.app  
 https://www.redlion.red  
 https://snapfood.al  
